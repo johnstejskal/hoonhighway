@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/src/view/Wheel.js" />
+        <item url="file://$PROJECT_DIR$/js/src/util/GameUtils.js" />
+        <item url="file://$PROJECT_DIR$/js/src/view/Car.js" />
+        <item url="file://$PROJECT_DIR$/js/src/view/Background.js" />
+        <item url="file://$PROJECT_DIR$/js/src/data/Assets.js" />
+        <item url="file://$PROJECT_DIR$/js/src/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/scripts/main.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/EventBus1.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/EventBus1.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Data.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Constants.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/TitleScreen.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/ObjectPool.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Assets.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/AssetManager.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Background.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/UI.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Wheel.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/PetrolUI.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/DistanceUI.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/GameUtils.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/signals/SignalBinding.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/signals/Signal.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/mainCLass.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Car.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/main.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/UI.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Constants.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Data.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/signals/Signal.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/main.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/TitleScreen.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/ObjectPool.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Wheel.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/signals/SignalBinding.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Assets.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Car.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/AssetManager.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/util/GameUtils.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/mainCLass.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/DistanceUI.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/Background.js" />
+      <root url="file://$PROJECT_DIR$/js/typescript/PetrolUI.js" />
+      <root url="file://$PROJECT_DIR$/js/src/util/GameUtils.js" />
+      <root url="file://$PROJECT_DIR$/js/src/view/Wheel.js" />
+      <root url="file://$PROJECT_DIR$/js/src/view/Car.js" />
+      <root url="file://$PROJECT_DIR$/js/src/view/Background.js" />
+      <root url="file://$PROJECT_DIR$/js/src/data/Assets.js" />
+      <root url="file://$PROJECT_DIR$/js/src/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
