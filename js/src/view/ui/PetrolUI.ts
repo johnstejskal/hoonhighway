@@ -38,8 +38,8 @@ class PetrolUI extends createjs.Bitmap {
 //        this.tx1.y = 5;
 
 
-        EventBus.addEventListener("evt_petrol", this.update, this);
-        EventBus.addEventListener("evt_distance", this.update, this);
+        EventBus.addEventListener(Data.EVENT_PETROL_TICK, this.update, this);
+        EventBus.addEventListener(Data.EVENT_DISTANCE_TICK, this.update, this);
 
     }
 

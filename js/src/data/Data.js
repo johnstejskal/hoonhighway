@@ -122,5 +122,8 @@ var Data;
         1
     ];
     Data.arrLevelMapLength = Data.arrLevelMap.length;
+    Data.EVENT_NITRO_END = "evt_nitroEnd";
+    Data.EVENT_PETROL_TICK = "evt_petrol";
+    Data.EVENT_DISTANCE_TICK = "evt_distance";
 })(Data || (Data = {}));
 //@ sourceMappingURL=Data.js.map

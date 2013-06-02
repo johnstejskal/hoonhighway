@@ -39,7 +39,7 @@ var Background = (function (_super) {
             this._oRoadHolder.x = 0;
             Data.distance++;
             Data.petrol -= 1;
-            EventBus.dispatch("evt_distance");
+            EventBus.dispatch(Data.EVENT_DISTANCE_TICK);
         }
         this._oCityHolder.x -= .1 * Data.speed;
         if(this._oCityHolder.x < -Data.stageWidth) {
@@ -65,7 +65,7 @@ var Background = (function (_super) {
         }, 1000, Ease.linear);
         var int = self.setInterval(function () {
             Data.distance += 1;
-            EventBus.dispatch("evt_distance");
+            EventBus.dispatch(Data.EVENT_DISTANCE_TICK);
             if(imgTick > 3) {
                 imgTick = 1;
             }
@@ -84,7 +84,7 @@ var Background = (function (_super) {
                 }, 300, Ease.linear).call(function () {
                     removeFromParent(oBlurContainer);
                     clearInterval(int);
-                    EventBus.dispatch("evt_nitroEnd");
+                    EventBus.dispatch(Data.EVENT_NITRO_END);
                 }, null, null);
             }
         }, 60);

@@ -113,7 +113,7 @@ export function constructGame()
 
     }
 
-    EventBus.addEventListener("evt_nitroEnd", nitroEnd);
+    EventBus.addEventListener(Data.EVENT_NITRO_END, nitroEnd);
     stage.update();
 
     createjs.Ticker.setFPS(60);
@@ -331,7 +331,7 @@ function collect(item:string, ref)
           Data.petrol += 10;
           if(Data.petrol > Data.maxPetrol)
           Data.petrol = Data.maxPetrol;
-          EventBus.dispatch("evt_petrol");
+          EventBus.dispatch(Data.EVENT_PETROL_TICK);
 
           setTimeout(function(){initNextObstacle()}, 500);
           break;
@@ -434,6 +434,7 @@ function collision(impactType:string = "major")
        GameUtils.makeObjFlash(oCar.oContainer);
 
         setTimeout(function(){isColling = false; Data.isBounceAllowed = true; oCar.bounceCar()}, 1000)
+
     }
 
     //-----------------------------------o

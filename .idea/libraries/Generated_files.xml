@@ -2,12 +2,16 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/src/view/ui/TitleScreen.js" />
         <item url="file://$PROJECT_DIR$/js/src/view/Wheel.js" />
         <item url="file://$PROJECT_DIR$/js/src/util/GameUtils.js" />
         <item url="file://$PROJECT_DIR$/js/src/view/Car.js" />
+        <item url="file://$PROJECT_DIR$/js/src/view/ui/DistanceUI.js" />
         <item url="file://$PROJECT_DIR$/js/src/view/Background.js" />
+        <item url="file://$PROJECT_DIR$/js/src/view/ui/PetrolUI.js" />
         <item url="file://$PROJECT_DIR$/js/src/data/Assets.js" />
         <item url="file://$PROJECT_DIR$/js/src/main.js" />
+        <item url="file://$PROJECT_DIR$/js/src/data/Data.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -48,12 +52,16 @@
       <root url="file://$PROJECT_DIR$/js/typescript/DistanceUI.js" />
       <root url="file://$PROJECT_DIR$/js/typescript/Background.js" />
       <root url="file://$PROJECT_DIR$/js/typescript/PetrolUI.js" />
+      <root url="file://$PROJECT_DIR$/js/src/view/ui/TitleScreen.js" />
       <root url="file://$PROJECT_DIR$/js/src/util/GameUtils.js" />
       <root url="file://$PROJECT_DIR$/js/src/view/Wheel.js" />
       <root url="file://$PROJECT_DIR$/js/src/view/Car.js" />
+      <root url="file://$PROJECT_DIR$/js/src/view/ui/DistanceUI.js" />
       <root url="file://$PROJECT_DIR$/js/src/view/Background.js" />
       <root url="file://$PROJECT_DIR$/js/src/data/Assets.js" />
+      <root url="file://$PROJECT_DIR$/js/src/view/ui/PetrolUI.js" />
       <root url="file://$PROJECT_DIR$/js/src/main.js" />
+      <root url="file://$PROJECT_DIR$/js/src/data/Data.js" />
     </CLASSES>
     <SOURCES />
   </library>

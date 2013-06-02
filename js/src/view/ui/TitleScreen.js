@@ -53,7 +53,6 @@ function doTween(targ) {
         }
         this.oContainer.addEventListener("click", handleClick);
 function handleClick(e) {
-            trace("CLICKED");
             e.target.removeAllEventListeners();
             e.target.removeAllChildren();
             Main.startGame();

@@ -4,11 +4,11 @@
     <list default="true" id="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" name="Default" comment="" />
     <ignored path="TypeScript_learning1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/main.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370169374238" ignored="false" />
+    <file path="/main.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173186628" ignored="false" />
     <file path="/index.html" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370170101614" ignored="false" />
     <file path="/test1.html" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369657052029" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScriptTest/js/scripts/main.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368187808014" ignored="false" />
-    <file path="/Car.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370163658940" ignored="false" />
+    <file path="/Car.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173246158" ignored="false" />
     <file path="$PROJECT_DIR$/../TypeScript_learning1/test1.html" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368249498073" ignored="false" />
     <file path="$PROJECT_DIR$/../MatchThreeHTML5-master/MatchThreeHTML5-master/js/game.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368527650607" ignored="false" />
     <file path="/wheel.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368535002538" ignored="false" />
@@ -17,22 +17,22 @@
     <file path="/AssetManager.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368536432292" ignored="false" />
     <file path="$PROJECT_DIR$/../MatchThreeHTML5-master/MatchThreeHTML5-master/js/gameitem.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368540797020" ignored="false" />
     <file path="/gameitem.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368540795963" ignored="false" />
-    <file path="/Background.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370156167436" ignored="false" />
-    <file path="/Data.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369558614478" ignored="false" />
+    <file path="/Background.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173324714" ignored="false" />
+    <file path="/Data.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173285395" ignored="false" />
     <file path="/Constants.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368856127162" ignored="false" />
     <file path="/utils.js" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369546419282" ignored="false" />
     <file path="/mainCLass.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1368939176610" ignored="false" />
     <file path="/UI.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369055053863" ignored="false" />
-    <file path="/DistanceUI.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369497613663" ignored="false" />
+    <file path="/DistanceUI.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173411586" ignored="false" />
     <file path="/EventBus1.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369052126307" ignored="false" />
     <file path="$PROJECT_DIR$/js/typescript/EventBus1.js" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369050402732" ignored="false" />
     <file path="$PROJECT_DIR$/js/typescript/EventBus1.js.map" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369050402732" ignored="false" />
-    <file path="/PetrolUI.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369555767287" ignored="false" />
+    <file path="/PetrolUI.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173390886" ignored="false" />
     <file path="/GameUtils.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369499992974" ignored="false" />
     <file path="/ObjectPool.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369548354792" ignored="false" />
     <file path="$PROJECT_DIR$/js/typescript/util/ObjectPool.js" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369544805600" ignored="false" />
     <file path="$PROJECT_DIR$/js/typescript/util/ObjectPool.js.map" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369544805600" ignored="false" />
-    <file path="/EventBus.js" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369548157164" ignored="false" />
+    <file path="/EventBus.js" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370173012878" ignored="false" />
     <file path="/a.dummy" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369558987843" ignored="false" />
     <file path="/main.css" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1370170225238" ignored="false" />
     <file path="/TitleScreen.ts" changelist="1379cd7e-930b-4040-a6dc-db7bdbeeb57c" time="1369662553789" ignored="false" />
@@ -56,55 +56,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="61" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scaler.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/src/util/scaler.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="31" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="71" selection-start="2689" selection-end="2689" vertical-scroll-proportion="-39.46154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.ts" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/src/main.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="444" column="71" selection-start="11154" selection-end="11154" vertical-scroll-proportion="0.67150635">
+            <state line="26" column="31" selection-start="571" selection-end="571" vertical-scroll-proportion="-10.04">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameUtils.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/src/util/GameUtils.ts">
+      <file leaf-file-name="Data.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/src/data/Data.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="67" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/src/util/utils.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="25" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+            <state line="29" column="33" selection-start="954" selection-end="973" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,8 +77,17 @@
       <file leaf-file-name="Background.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/src/view/Background.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="34" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="145" column="43" selection-start="3805" selection-end="3805" vertical-scroll-proportion="-7.08">
+              <folding>
+                <marker date="1370173327866" expanded="true" signature="209:3943" placeholder="{...}" />
+                <marker date="1370173327866" expanded="true" signature="1889:2454" placeholder="{...}" />
+                <marker date="1370173327866" expanded="true" signature="1993:2307" placeholder="{...}" />
+                <marker date="1370173327866" expanded="true" signature="2132:2297" placeholder="//..." />
+                <marker date="1370173327866" expanded="true" signature="2485:3940" placeholder="{...}" />
+                <marker date="1370173327866" expanded="true" signature="3171:3929" placeholder="{...}" />
+                <marker date="1370173327866" expanded="true" signature="3559:3918" placeholder="{...}" />
+                <marker date="1370173327866" expanded="true" signature="3703:3889" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,7 +95,7 @@
       <file leaf-file-name="Car.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/src/view/Car.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="85" selection-start="3964" selection-end="3964" vertical-scroll-proportion="-11.56">
+            <state line="122" column="5" selection-start="3092" selection-end="3092" vertical-scroll-proportion="-4.6">
               <folding />
             </state>
           </provider>
@@ -131,16 +104,60 @@
       <file leaf-file-name="Wheel.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/src/view/Wheel.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="36" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+            <state line="19" column="47" selection-start="389" selection-end="389" vertical-scroll-proportion="-11.92">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assets.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/src/data/Assets.ts">
+      <file leaf-file-name="DistanceUI.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/src/view/ui/DistanceUI.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="0" selection-start="2100" selection-end="2100" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1370173415095" expanded="true" signature="195:2354" placeholder="{...}" />
+                <marker date="1370173415095" expanded="true" signature="273:1818" placeholder="{...}" />
+                <marker date="1370173415095" expanded="true" signature="1865:1926" placeholder="{...}" />
+                <marker date="1370173415095" expanded="true" signature="1987:2328" placeholder="{...}" />
+                <marker date="1370173415095" expanded="true" signature="2100:2322" placeholder="{...}" />
+                <marker date="1370173415095" expanded="true" signature="2195:2261" placeholder="{...}" />
+                <marker date="1370173415095" expanded="true" signature="2267:2312" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TitleScreen.ts" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/src/view/ui/TitleScreen.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="53" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.82577133">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetrolUI.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/src/view/ui/PetrolUI.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="27" selection-start="1110" selection-end="1110" vertical-scroll-proportion="-4.6">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistanceUI.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/src/view/ui/DistanceUI.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="0" selection-start="1989" selection-end="1989" vertical-scroll-proportion="-2.56">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UI.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/src/view/ui/UI.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="11" selection-start="436" selection-end="437" vertical-scroll-proportion="-13.28">
               <folding />
             </state>
           </provider>
@@ -156,22 +173,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/typescript/main.ts" />
-        <option value="$PROJECT_DIR$/js/typescript/Assets.ts" />
-        <option value="$PROJECT_DIR$/js/typescript/scaler.js" />
-        <option value="$PROJECT_DIR$/js/typescript/Background.ts" />
-        <option value="$PROJECT_DIR$/js/typescript/Car.ts" />
         <option value="$PROJECT_DIR$/js/typescript/TitleScreen.ts" />
-        <option value="$PROJECT_DIR$/js/src/view/Background.ts" />
         <option value="$PROJECT_DIR$/js/src/view/Wheel.ts" />
         <option value="$PROJECT_DIR$/js/src/data/Assets.ts" />
         <option value="$PROJECT_DIR$/js/src/util/utils.js" />
-        <option value="$PROJECT_DIR$/js/src/main.ts" />
-        <option value="$PROJECT_DIR$/js/src/view/Car.ts" />
         <option value="$PROJECT_DIR$/js/src/util/GameUtils.ts" />
         <option value="$PROJECT_DIR$/js/src/util/scaler.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/src/util/EventBus.js" />
+        <option value="$PROJECT_DIR$/js/src/main.ts" />
+        <option value="$PROJECT_DIR$/js/src/view/Car.ts" />
+        <option value="$PROJECT_DIR$/js/src/data/Data.ts" />
+        <option value="$PROJECT_DIR$/js/src/view/Background.ts" />
+        <option value="$PROJECT_DIR$/js/src/view/ui/PetrolUI.ts" />
+        <option value="$PROJECT_DIR$/js/src/view/ui/DistanceUI.ts" />
+        <option value="$PROJECT_DIR$/js/src/view/ui/TitleScreen.ts" />
       </list>
     </option>
   </component>
@@ -290,7 +307,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TypeScript_learning1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hoonhighway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,7 +446,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32887402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32887402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,60 +520,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/html5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easeljs/ui/Touch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="11" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.2647059">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="0" selection-start="3232" selection-end="3232" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/view/Background.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/data/Assets.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="2100" selection-end="2100" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/util/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/util/GameUtils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/src/util/GameUtils.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="67" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
@@ -542,51 +527,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/view/Background.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="34" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/view/Car.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="85" selection-start="3964" selection-end="3964" vertical-scroll-proportion="-11.56">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/src/view/Wheel.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/src/util/scaler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="3" column="16" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1370170455136" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="61" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+        <state line="19" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370170700021" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="91" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;scaleX&quot;: .9...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;skewY&quot;: 0...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;scaleX&quot;: .9...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;skewY&quot;: 0...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;x&quot;: 130...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;x&quot;: &quot;+=40&quot;...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;y&quot;: &quot;-=10&quot;...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{&quot;rotation&quot;: 0...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1370173191624" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/util/EventBus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="81" selection-end="81" vertical-scroll-proportion="-4.76">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="71" selection-start="2689" selection-end="2689" vertical-scroll-proportion="-39.46154">
+        <state line="69" column="43" selection-start="2689" selection-end="2689" vertical-scroll-proportion="-39.46154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/Car.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="5" selection-start="3092" selection-end="3092" vertical-scroll-proportion="-4.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/data/Data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="33" selection-start="954" selection-end="973" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/Background.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="43" selection-start="3805" selection-end="3805" vertical-scroll-proportion="-7.08">
+          <folding>
+            <marker date="1370173327866" expanded="true" signature="209:3943" placeholder="{...}" />
+            <marker date="1370173327866" expanded="true" signature="1889:2454" placeholder="{...}" />
+            <marker date="1370173327866" expanded="true" signature="1993:2307" placeholder="{...}" />
+            <marker date="1370173327866" expanded="true" signature="2132:2297" placeholder="//..." />
+            <marker date="1370173327866" expanded="true" signature="2485:3940" placeholder="{...}" />
+            <marker date="1370173327866" expanded="true" signature="3171:3929" placeholder="{...}" />
+            <marker date="1370173327866" expanded="true" signature="3559:3918" placeholder="{...}" />
+            <marker date="1370173327866" expanded="true" signature="3703:3889" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/Wheel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="47" selection-start="389" selection-end="389" vertical-scroll-proportion="-11.92">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/ui/DistanceUI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1370173415095" expanded="true" signature="195:2354" placeholder="{...}" />
+            <marker date="1370173415095" expanded="true" signature="273:1818" placeholder="{...}" />
+            <marker date="1370173415095" expanded="true" signature="1865:1926" placeholder="{...}" />
+            <marker date="1370173415095" expanded="true" signature="1987:2328" placeholder="{...}" />
+            <marker date="1370173415095" expanded="true" signature="2100:2322" placeholder="{...}" />
+            <marker date="1370173415095" expanded="true" signature="2195:2261" placeholder="{...}" />
+            <marker date="1370173415095" expanded="true" signature="2267:2312" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/ui/PetrolUI.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="27" selection-start="1110" selection-end="1110" vertical-scroll-proportion="-4.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/ui/DistanceUI.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="1989" selection-end="1989" vertical-scroll-proportion="-2.56">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/ui/UI.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="11" selection-start="436" selection-end="437" vertical-scroll-proportion="-13.28">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/src/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="444" column="71" selection-start="11154" selection-end="11154" vertical-scroll-proportion="0.67150635">
+        <state line="26" column="31" selection-start="571" selection-end="571" vertical-scroll-proportion="-10.04">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/src/view/ui/TitleScreen.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="53" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.82577133">
           <folding />
         </state>
       </provider>

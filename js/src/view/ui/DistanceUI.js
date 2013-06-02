@@ -40,7 +40,7 @@ var DistanceUI = (function (_super) {
         this.oContainer.addChild(this.tx6);
         this.tx6.x = 104;
         this.tx6.y = 5;
-        EventBus.addEventListener("evt_distance", this.updateDistance, this);
+        EventBus.addEventListener(Data.EVENT_DISTANCE_TICK, this.updateDistance, this);
     }
     DistanceUI.prototype.update = function () {
         this.txPetrol.text = "petrol " + Data.petrol;

@@ -70,7 +70,7 @@ var Main;
                 ObjectPool.add(obj, ObjectPool.itemPool);
             }
         }
-        EventBus.addEventListener("evt_nitroEnd", nitroEnd);
+        EventBus.addEventListener(Data.EVENT_NITRO_END, nitroEnd);
         Main.stage.update();
         createjs.Ticker.setFPS(60);
         createjs.Ticker.addEventListener("tick", gameLoop);
@@ -255,7 +255,7 @@ var Main;
                 if(Data.petrol > Data.maxPetrol) {
                     Data.petrol = Data.maxPetrol;
                 }
-                EventBus.dispatch("evt_petrol");
+                EventBus.dispatch(Data.EVENT_PETROL_TICK);
                 setTimeout(function () {
                     initNextObstacle();
                 }, 500);

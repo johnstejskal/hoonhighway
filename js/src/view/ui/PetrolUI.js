@@ -22,8 +22,8 @@ var PetrolUI = (function (_super) {
         this._needleImage.y = 85;
         this._needleImage.rotation = 58;
         this.oContainer.addChild(this._needleImage);
-        EventBus.addEventListener("evt_petrol", this.update, this);
-        EventBus.addEventListener("evt_distance", this.update, this);
+        EventBus.addEventListener(Data.EVENT_PETROL_TICK, this.update, this);
+        EventBus.addEventListener(Data.EVENT_DISTANCE_TICK, this.update, this);
     }
     PetrolUI.prototype.update = function () {
         if(Data.petrol <= 0) {

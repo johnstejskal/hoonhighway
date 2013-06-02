@@ -124,7 +124,7 @@ class Car extends createjs.Bitmap {
 
     public doNitro()
     {
-        EventBus.addEventListener("evt_nitroEnd", this.resetCarBody, this);
+        EventBus.addEventListener(Data.EVENT_NITRO_END, this.resetCarBody, this);
        // this._imgShadow.visible = false;
         this.bounceTween.get(this._cBody)
             .to({rotation:-1},300,Ease.linear)
@@ -164,7 +164,7 @@ class Car extends createjs.Bitmap {
     public resetCarBody()
     {
 
-        EventBus.removeEventListener("evt_nitroEnd", this.resetCarBody, this);
+        EventBus.removeEventListener(Data.EVENT_NITRO_END, this.resetCarBody, this);
         this.bounceTween.get(this._cBody)
             .to({rotation:0},200,Ease.linear)
 

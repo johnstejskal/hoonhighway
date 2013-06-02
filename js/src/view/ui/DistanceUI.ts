@@ -77,7 +77,7 @@ class DistanceUI extends createjs.Bitmap {
         this.tx6.y = 5;
        // this.tx6.text = "8";
 
-        EventBus.addEventListener("evt_distance", this.updateDistance, this);
+        EventBus.addEventListener(Data.EVENT_DISTANCE_TICK, this.updateDistance, this);
        // this.updateDistance(this);
     }
 

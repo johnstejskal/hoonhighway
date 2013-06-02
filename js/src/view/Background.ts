@@ -78,7 +78,7 @@ class Background extends createjs.Bitmap {
        Data.distance ++;
        Data.petrol -= 1;
 
-       EventBus.dispatch("evt_distance");
+       EventBus.dispatch(Data.EVENT_DISTANCE_TICK);
 
 
 //        this._pole = Assets.getAsset("pole");
@@ -122,7 +122,7 @@ class Background extends createjs.Bitmap {
 
          var int=self.setInterval(function(){
           Data.distance+=1;
-          EventBus.dispatch("evt_distance");
+          EventBus.dispatch(Data.EVENT_DISTANCE_TICK);
 
          if(imgTick > 3)
              imgTick = 1;
@@ -145,7 +145,7 @@ class Background extends createjs.Bitmap {
                         removeFromParent(oBlurContainer)
                         clearInterval(int);
 
-                    EventBus.dispatch("evt_nitroEnd");
+                    EventBus.dispatch(Data.EVENT_NITRO_END);
                     }, null, null);
 
             }

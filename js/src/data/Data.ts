@@ -24,7 +24,10 @@ module Data {
    export var arrLevelMap:Array =  [1,1,1,2,0,0,1,2,1,2,1,1,2,2,0,1,0,2,2,1,2,1,2,1,0,2,1,1,1,2,2,2,1,2,1];
    export var arrLevelMapLength:number = arrLevelMap.length;
 
-
+   //Custom Events
+   export var EVENT_NITRO_END:string = "evt_nitroEnd";
+   export var EVENT_PETROL_TICK:string = "evt_petrol";
+   export var EVENT_DISTANCE_TICK:string = "evt_distance";
 
 
 }

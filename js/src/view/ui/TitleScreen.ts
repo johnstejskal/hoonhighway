@@ -73,7 +73,7 @@ class TitleScreen extends createjs.Bitmap {
 
         function handleClick(e)
         {
-            trace("CLICKED");
+
             e.target.removeAllEventListeners();
             e.target.removeAllChildren();
             // this.oContainer.removeAllChildren();
